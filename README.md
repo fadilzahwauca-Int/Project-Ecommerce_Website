@@ -1,10 +1,10 @@
 # Project-Ecommerce_Website
 
 Kelompok :
-- Fadil Zahwa
-- Mohammad Bayu Perdana
-- Marselis Lafando Makyn
-- Muhammad Khadafi
+- Fadil Zahwa (2522105011)
+- Mohammad Bayu Perdana (2522105056)
+- Marselis Lafando Makyn (2522105089)
+- Muhammad Khadafi (2522105086)
 
 How to use our project :
 - Download zip file and Unzip file on your local server.
