@@ -1,6 +1,6 @@
 # Project-Ecommerce_Website
 
-Kelompok :
+Kelompok 8 :
 - Fadil Zahwa (2522105011)
 - Mohammad Bayu Perdana (2522105056)
 - Marselis Lafando Makyn (2522105089)
